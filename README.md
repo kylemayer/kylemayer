@@ -6,5 +6,4 @@
 - 💬 &nbsp;Ask me about anything related to Javascript/React, Web3, and Ethereum
 - 📫 &nbsp;How to reach me: [@0xMayer](https://twitter.com/0xMayer)
 - 🏔 &nbsp;Fun fact: I love being in the mountains
-
-<img src="https://res.cloudinary.com/mountaincloud/image/upload/v1630525550/E7d6BYSWUAE4Os8_1_eonmvg.png"></img>
+<img src="https://res.cloudinary.com/mountaincloud/image/upload/v1630525900/E7d6BYSWUAE4Os8_4_gsaz9p.png"></img>
