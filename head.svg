@@ -101,8 +101,20 @@
 				}
 			</style>
 			<div class="container">
-				<h1>HELLLLLLLLO &amp; CSS<br/>not an animated GIF</h1>
-				<p>Click to see the source</p>
+				<h1 class="jt --debug">
+				  <span class="jt__row">
+				    <span class="jt__text">Kyle</span>
+				  </span>
+				  <span class="jt__row jt__row--sibling" aria-hidden="true">
+				    <span class="jt__text">Kyle</span>
+				  </span>
+				  <span class="jt__row jt__row--sibling" aria-hidden="true">
+				    <span class="jt__text">Kyle</span>
+				  </span>
+				  <span class="jt__row jt__row--sibling" aria-hidden="true">
+				    <span class="jt__text">Kyle</span>
+				  </span>
+				</h1>
 			</div>
 		</div>
 	</foreignObject>
