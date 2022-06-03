@@ -1,4 +1,4 @@
-### Hi there <a href="https://www.kylemayer.dev"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there
 
 - ⚛️ &nbsp;I’m currently learning Next.JS
 - 💬 &nbsp;Ask me about anything related to Javascript/React and Web3
