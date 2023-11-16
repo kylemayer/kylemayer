@@ -1,4 +1,4 @@
-Kyle Mayer
+Kyle Mayer<br/>
 🌐 JS Full Stack Developer<br/>
 💡 Web3 nerd | Problem Solver<br/>
 🚀 Constantly Learning & Growing<br/>
